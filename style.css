@@ -50,7 +50,7 @@ a:hover{
 .topcontainer {
     background-color: #BCEAD5;
     position: relative;
-    padding-top: 100px;
+    padding-top:30%;
 }
 
 .middlecontainer {
@@ -165,5 +165,5 @@ hr {
 
 .mountain {
     width: 33%;
-    height: 20%;
+    height: 40%;
 }
